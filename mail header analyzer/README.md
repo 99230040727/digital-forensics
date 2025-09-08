@@ -16,7 +16,7 @@
     original.
 
 -   Select all the text in the header and copy it.
-
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/4cc06e95-bce2-4662-9067-402dc176ed15" />
 *Step 2: Use a Mail Header Analyzer*
 
 -   The easiest way to analyze the header is with an online tool.
