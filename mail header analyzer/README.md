@@ -26,7 +26,7 @@
 -   Paste the entire header you copied into the analysis box.
 
 -   Click the \"Analyze\" button to get a parsed, easy-to-read report.
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f79add4c-d4cc-42f9-9887-651916019dec" />
 > *Step 3: Analyze The Report*
 
 -   This is the most critical step. In the analyzer\'s report, look for
